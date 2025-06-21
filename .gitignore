@@ -1,2 +1,4 @@
 kaggle_data/
 .ipynb_checkpoints/
+catboost_info/
+submission.csv
